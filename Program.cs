@@ -6,7 +6,7 @@ var app = new CommandApp<GenerateCommand>();
 app.Configure(config =>
 {
     config.SetApplicationName("SecurePasswordGenerator");
-    config.SetApplicationVersion("0.2.0");
+    config.SetApplicationVersion("0.2.1");
 });
 
 return app.Run(args);
