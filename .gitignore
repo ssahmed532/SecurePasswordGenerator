@@ -24,3 +24,6 @@ desktop.ini
 
 ## Claude
 .claude/
+
+## Audit reports
+SECURITY-AUDIT.md
